@@ -1,16 +1,13 @@
-### Hi there 👋
+# About Me
 
-<!--
-**anushmilroy/anushmilroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there,
 
-Here are some ideas to get you started:
+I am a marketing expert with a focus on providing end-to-end integrated solutions to help businesses increase their leads and improve their bottom line.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆Branding 🏆Video Editing 🏆Animations 🏆Graphic Design 🏆Social Media Marketing 🏆Web Development 🏆Search Engine Optimization 🏆Lead Generation 🏆Digital Transformation ✅WordPress ✅Shopify ✅WebFlow ✅ClickFunnels ✅Wix ✅SquareSpace
+
+My primary focus is on maximizing the return on investment for my clients' marketing and advertising efforts. I use data-driven strategies and our extensive industry knowledge to turn every dollar spent into increased revenue.
+
+With a track record of delivering high-quality work, I am known as the "guy who never sleeps" amongst my colleagues.
+
+If you're in need of marketing support that delivers real results, don't hesitate to reach out. I'm confident that my team and I can help you achieve your business goals.
